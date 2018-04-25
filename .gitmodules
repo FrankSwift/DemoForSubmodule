@@ -1,0 +1,6 @@
+[submodule "DemoForSubmodule"]
+	path = DemoForSubmodule
+	url = git@github.com:FrankSwift/DemoForSubmodule.git
+[submodule "FWShow"]
+	path = FWShow
+	url = git@github.com:FrankSwift/FWShow.git
